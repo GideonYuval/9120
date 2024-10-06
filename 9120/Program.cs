@@ -35,7 +35,6 @@ namespace _9120
         public static int FindMax(Node<int> lst)
         {
             // Your implementation here
-            int max = lst.GetValue();
             return 0;
 
 
